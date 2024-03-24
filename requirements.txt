@@ -1,11 +1,3 @@
-"""
-Yue Yu
-CS 5001, Fall 2023
-Final Project -- requirements
-
-This program contains Requirements file for MusicMustard app.
-"""
-
 requests==2.31.0
 streamlit==1.28.2
 pytest==7.4.3
