@@ -1,5 +1,7 @@
 # Music Mustard - A Fun Quiz Web App
 
+(Please refer to the screencast for preview: https://youtu.be/8niOp_kYaXk?si=w-LoMT7T8BAWBTey)
+
 ## 1. Application Summary
 
 The MusicMustard web application provides a platform for music lovers to explore music metadata, assess their knowledge about random or personalized artists through fun quizzes, and check their quiz results. Users can also discover new songs and expand their music playlists when enjoying the quiz.
